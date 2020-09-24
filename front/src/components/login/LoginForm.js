@@ -65,7 +65,6 @@ export default function LoginForm() {
         <div className={classes.root}>
             <Grid container spacing={3}>
                 <Grid item xs={0} sm={4}>
-
                 </Grid>
                 <Grid item xs={12} sm={4} alignItems="center" >
                     <Paper elevation={3} className={classes.paper} >
